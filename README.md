@@ -2,6 +2,6 @@
 - 👀 I’m interested in Cloud Computing, DevOps, and Software Development
 - 🌱 I’m currently learning Docker, Jenkins, and AWS to enhance my DevOps skills
 - 💞️ I’m looking to collaborate on open-source projects related to cloud, automation, and web development
-- 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/shakeel-khan01/) or drop an email at shakeel.khan@example.com
+- 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/shakeel-khan01/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring new technologies and building projects that solve real-world problems!
