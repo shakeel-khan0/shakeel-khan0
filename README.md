@@ -1,24 +1,226 @@
-# 💫 About Me:
-Hi 👋 I'm Shakeel  <br><br>I work with Python for AI and computer vision, and build interactive applications using Unity 3D.  <br>Currently exploring AR/VR systems and real-time pipelines through academic and personal projects.  <br>I also use DevOps tools like Git, Docker, and Jenkins to streamline development workflows.<br><br>
+<div align="center">
 
+# Hi, I'm Shakeel Khan 👋
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/shakeel02.bsky.social) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sychokhan2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sychokhan2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shakeel-khan01) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/shakeel02) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@officialshakeelkhan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shakeelkhan.dev@gmail.com) 
+### AI Engineer · Computer Vision · Intelligent Systems
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shakeel-khan0&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shakeel-khan0&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shakeel-khan0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**Building AI systems that perceive, understand, and interact with the physical world.**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shakeel_Khan-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/shakeel-khan01)
+[![GitHub](https://img.shields.io/badge/GitHub-shakeel--khan0-181717?style=flat-square\&logo=github)](https://github.com/shakeel-khan0)
+[![Email](https://img.shields.io/badge/Email-shakeelkhan.dev%40gmail.com-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:shakeelkhan.dev@gmail.com)
+[![Agentix Labs AI](https://img.shields.io/badge/Founder-Agentix_Labs_AI-7C3AED?style=flat-square)](https://agentixlabsai.com)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shakeel-khan0&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shakeel-khan0&icon=6&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I'm an **AI Engineer** focused on **Computer Vision, real-time intelligent systems, and physical-world AI**.
+
+My work revolves around building systems that go beyond conventional software — combining **visual perception, multi-camera geometry, deep learning, 3D reconstruction, tracking, and intelligent automation** to understand and interact with real environments.
+
+I enjoy working at the intersection of **research and engineering**: taking an idea from first principles, experimenting with it, and turning it into a working system.
+
+I'm also the **Founder of [Agentix Labs AI](https://agentixlabsai.com)**, where I'm building custom AI systems, intelligent agents, automation, and applied AI solutions.
+
+---
+
+## ⚡ What I Build
+
+```text
+Computer Vision        → Detection · Tracking · Pose Estimation · Visual Intelligence
+Multi-Camera Systems   → Calibration · Synchronization · Multi-View Geometry
+3D Vision              → Triangulation · Reconstruction · Spatial Understanding
+Real-Time AI           → Vision Pipelines · Intelligent Monitoring · Edge Processing
+Digital Twins          → Physical-to-Digital Representation · Simulation
+AI Systems             → LLMs · RAG · AI Agents · Multi-Agent Workflows
+```
+
+---
+
+## 🔬 Current Focus
+
+* 🧠 **Computer Vision & Deep Learning**
+* 👁️ **Multi-Camera Perception**
+* 🌐 **3D Reconstruction & Spatial AI**
+* 🎯 **Real-Time Object Tracking**
+* 🧍 **Human Pose & Motion Understanding**
+* 🏭 **Digital Twins & Intelligent Physical Systems**
+* 🤖 **Vision-Language & Agentic AI Systems**
+
+> I am particularly interested in AI that can **observe the physical world, reason about it, and turn perception into useful action.**
+
+---
+
+## 🚀 Featured Engineering & Research
+
+### 🏓 Multi-Camera 3D Ping-Pong Analysis System
+
+A research-oriented computer vision system designed to understand a real ping-pong environment using synchronized camera views.
+
+**Core work includes:**
+
+`Multi-Camera Calibration` · `Camera Synchronization` · `Object Detection` · `Ball Tracking` · `Human Pose Estimation` · `Multi-View Geometry` · `3D Triangulation` · `Digital Twin`
+
+The project explores how multiple independent camera observations can be fused into a unified representation of a dynamic physical environment.
+
+---
+
+### 🖥️ AI Buddy — Context-Aware Visual Assistant
+
+Exploring an AI assistant capable of understanding software interfaces and providing **real-time visual guidance directly on screen**.
+
+```text
+Voice Command
+     ↓
+Speech Understanding
+     ↓
+Screen / UI Perception
+     ↓
+Visual Reasoning
+     ↓
+Grounded UI Element Detection
+     ↓
+Interactive Overlay Guidance
+```
+
+The goal is to move beyond text-based assistants toward AI that can **see what the user sees and guide them inside real software environments.**
+
+---
+
+### 🧠 Agentix Labs AI
+
+Building applied AI systems through **[Agentix Labs AI](https://agentixlabsai.com)**.
+
+Current engineering areas include:
+
+* AI Agents & Multi-Agent Systems
+* LLM-powered Applications
+* RAG & Knowledge Systems
+* Voice AI & Intelligent Assistants
+* Workflow Automation
+* Custom AI Software
+* Computer Vision Solutions
+
+---
+
+## 🛠️ Technology Stack
+
+### AI · Computer Vision · Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square\&logo=keras\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square\&logo=nvidia\&logoColor=white)
+
+### 3D · Simulation · Spatial Systems
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square\&logo=unity\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square\&logo=csharp\&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square\&logo=blender\&logoColor=white)
+
+### AI Systems · Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-Generative_AI-7C3AED?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Knowledge_Systems-2563EB?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-Agentic_Systems-9333EA?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=flat-square\&logo=n8n\&logoColor=white)
+
+### Engineering · DevOps
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square\&logo=jenkins\&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square\&logo=nginx\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+
+---
+
+## 🧭 Research Direction
+
+My long-term interests lie at the intersection of:
+
+```text
+                    Physical World
+                          │
+                          ▼
+              ┌─────────────────────┐
+              │  Visual Perception  │
+              └──────────┬──────────┘
+                         │
+             ┌───────────┴───────────┐
+             ▼                       ▼
+      Multi-View Vision         Spatial / 3D AI
+             │                       │
+             └───────────┬───────────┘
+                         ▼
+              Intelligent Systems
+                         │
+                         ▼
+            Digital Twins · Robotics
+```
+
+I'm particularly interested in **multi-camera intelligence, geometry-based vision, 3D scene understanding, digital twins, and intelligent systems capable of interacting with dynamic real-world environments.**
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shakeel-khan0&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakeel-khan0&layout=compact&theme=github_dark&hide_border=true" />
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=shakeel-khan0&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+## 🌱 Currently Exploring
+
+```python
+current_focus = {
+    "vision": [
+        "Multi-View Computer Vision",
+        "3D Scene Understanding",
+        "Real-Time Perception"
+    ],
+    "intelligent_systems": [
+        "Digital Twins",
+        "Physical AI",
+        "Vision-Language Systems"
+    ],
+    "research": "How machines can build a unified understanding of the physical world."
+}
+```
+
+---
+
+<div align="center">
+
+### Let's Build Intelligent Systems That See Beyond the Screen.
+
+**AI Engineering · Computer Vision · 3D Intelligence · Physical AI**
+
+[LinkedIn](https://linkedin.com/in/shakeel-khan01) •
+[Agentix Labs AI](https://agentixlabsai.com) •
+[Email](mailto:shakeelkhan.dev@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=shakeel-khan0\&style=flat-square\&label=PROFILE+VIEWS)
+
+</div>
