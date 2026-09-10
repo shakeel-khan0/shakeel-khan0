@@ -126,6 +126,37 @@ Unity Digital Twin
 
 ---
 
+## 🖥️ AI Buddy — Context-Aware Visual Assistant
+
+Currently exploring an AI assistant capable of understanding software interfaces and providing **real-time visual guidance directly on screen**.
+
+Instead of only answering with text, the system is intended to understand what the user is seeing and provide grounded visual assistance through contextual overlays.
+
+```text
+Voice Command
+      │
+      ▼
+Speech Understanding
+      │
+      ▼
+Screen / UI Perception
+      │
+      ▼
+Visual Reasoning
+      │
+      ▼
+Grounded UI Element Detection
+      │
+      ▼
+Interactive Overlay Guidance
+```
+
+**Research challenges**
+
+`UI Grounding` · `Vision-Language Models` · `Coordinate Mapping` · `Hallucination Reduction` · `Real-Time Overlay Rendering`
+
+---
+
 ## 🧠 Agentix Labs AI
 
 Through **[Agentix Labs AI](https://agentixlabsai.com/)**, I design and build AI agents, conversational systems, RAG pipelines, and intelligent automation using **Python-first architectures**.
@@ -176,37 +207,6 @@ User / Business Channel
              ▼
       Business Actions
 ```
-
----
-
-## 🖥️ AI Buddy — Context-Aware Visual Assistant
-
-Currently exploring an AI assistant capable of understanding software interfaces and providing **real-time visual guidance directly on screen**.
-
-Instead of only answering with text, the system is intended to understand what the user is seeing and provide grounded visual assistance through contextual overlays.
-
-```text
-Voice Command
-      │
-      ▼
-Speech Understanding
-      │
-      ▼
-Screen / UI Perception
-      │
-      ▼
-Visual Reasoning
-      │
-      ▼
-Grounded UI Element Detection
-      │
-      ▼
-Interactive Overlay Guidance
-```
-
-**Research challenges**
-
-`UI Grounding` · `Vision-Language Models` · `Coordinate Mapping` · `Hallucination Reduction` · `Real-Time Overlay Rendering`
 
 ---
 
@@ -301,16 +301,21 @@ My long-term research interests include **multi-camera intelligence, geometry-ba
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shakeel-khan0&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&bg_color=0D1117" />
+<img src="https://img.shields.io/github/followers/shakeel-khan0?style=for-the-badge&logo=github&color=7C3AED&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fshakeel-khan0&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=7C3AED&labelColor=0D1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shakeel-khan0&theme=radical&hide_border=true&background=0D1117" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakeel-khan0&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" />
-
-<br/><br/>
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=shakeel-khan0&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=7C3AED&point=FFFFFF"
-width="100%"
-/>
+<!--
+  Why the switch: github-readme-stats.vercel.app, github-profile-trophy.vercel.app, and
+  github-readme-activity-graph.vercel.app are all shared free Vercel demo instances that
+  keep going down/rate-limited under global load (confirmed again just now — even a
+  direct GitHub API call got rate-limited server-side). The two shields.io badges above
+  hit GitHub's API directly through shields' own infra, which is far more reliable, and
+  streak-stats (Heroku-based) has been rendering fine throughout this conversation.
+  This is a lighter stats row, not the full charts (no language breakdown, no commit
+  graph) — once you self-host your own instance (see earlier steps), swap this block
+  back for the fuller stats/top-langs/activity-graph cards for the complete visual.
+-->
 
 </div>
 
